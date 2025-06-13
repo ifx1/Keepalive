@@ -5,7 +5,7 @@ import time
 import schedule
 
 # 替换为你的 Streamlit 应用 URL
-APP_URL = "https://your-streamlit-app-url.streamlit.app"
+APP_URL = "https://ndu9evvk658eql3ntsfuz4.streamlit.app"
 
 def keep_alive():
     try:
